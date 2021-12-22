@@ -1,0 +1,41 @@
+.feedback-div {
+  position : absolute;
+  margin : 200px 500px;
+  background-color: #B1D0E0;
+  z-index : 1;
+  opacity : 0.8;
+}
+
+.feedback-header{
+  position : relative;
+  margin-left : 28%;
+  margin-top : 20px;
+}
+
+.feedback-form {
+  width : 800px;
+  height : 400px;
+  margin-top : 20px;
+}
+
+.one-field{
+  width : 100%;
+  margin : 30px;
+}
+
+.input-field{
+  position : absolute;
+  right : 50px;
+  width : 70%;
+}
+
+.message {
+  height : 80px;
+}
+
+
+.submit-button {
+  position : relative;
+  margin-top : 40px;
+  margin-left : 40%;
+}

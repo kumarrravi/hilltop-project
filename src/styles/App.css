@@ -1,0 +1,9 @@
+.app {
+  position :relative;
+}
+
+.resort-img{
+  position : fixed;
+  height : 100%;
+  width :100%;
+}
